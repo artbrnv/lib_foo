@@ -6,6 +6,7 @@ __pycache__/
 # Non-lib files
 app.py
 core_mal.py
+.DS_Store
 
 # C extensions
 *.so

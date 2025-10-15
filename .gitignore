@@ -3,6 +3,10 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# Non-lib files
+app.py
+core_mal.py
+
 # C extensions
 *.so
 
